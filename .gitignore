@@ -1,0 +1,10 @@
+# Build & Binaries
+test_grafting
+*.o
+*.a
+*.so
+__pycache__/
+*.pyc
+*.db
+*.tmp
+.DS_Store
