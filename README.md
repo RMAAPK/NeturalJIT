@@ -1,5 +1,8 @@
 # NJIT: Neural Just-In-Time Compilation & Parametric Memory Grafting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23859074.svg)](https://doi.org/10.5281/zenodo.23859074)
+
+
 [![License: BSL 1.1](https://img.shields.io/badge/License-BSL_1.1-blue.svg)](LICENSE)
 [![Organization: RMAA Holdings](https://img.shields.io/badge/Organization-RMAA%20Holdings-purple.svg)](https://github.com/RMAAPK)
 [![Speed: 64µs Grafting](https://img.shields.io/badge/Latency-64%C2%B5s%20Direct%20Graft-brightgreen.svg)]()
